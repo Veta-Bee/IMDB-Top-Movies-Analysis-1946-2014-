@@ -1,10 +1,11 @@
 # IMDB-Top-Movies-Analysis-1946-2014-
 
+
 An interactive Power BI dashboard analyzing IMDb top-rated movies (1946–2014), uncovering how duration, content rating, and storytelling depth influence audience ratings. A data-driven journey into what makes a movie truly timeless.
+
 
 <img width="1436" height="716" alt="image" src="https://github.com/user-attachments/assets/982344fa-eba9-4da8-b236-44e4cb663649" />
 
-🎬 IMDB Top Movies Analysis (1946–2014): A Data Story in Ratings and Time
 
 
 This dashboard explores what truly defines a timeless movie by analyzing 25 of the highest-rated films on IMDb between 1946 and 2014. With an impressive average IMDb rating of 8.81, the dataset reflects only elite, critically acclaimed productions.
